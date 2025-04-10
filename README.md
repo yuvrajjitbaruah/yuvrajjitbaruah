@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI, ML & Cloud technology
 - 📫 You can reach me via my Instagram: @yuvrajjitbaruah or X: @yuvrajjitbaruah
 - 😄 Pronouns: His/Him
-- ⚡ Fun fact: I like to do adventure.
+- ⚡ Fun fact: I like to do adventur
 
 <!---
 yuvrajjitbaruah/yuvrajjitbaruah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
