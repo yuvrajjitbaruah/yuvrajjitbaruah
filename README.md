@@ -77,13 +77,12 @@ https://github.com/yuvrajjitbaruah/IntelliResearch-AI
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajjitbaruah&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajjitbaruah&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-</p>
+- Building AI-powered projects
+- Learning AI Agents, Langflow, and IBM Granite
+- Exploring Cloud Computing and Data Analytics
+- Growing as a developer and community organizer
 
 ---
 
