@@ -15,7 +15,6 @@
 * 🌐 Organizer at Google Developer Groups on Campus (GDGoC)
 * 📚 Currently learning AI Agents, Langflow, IBM Granite & Cloud Technologies
 * 🚀 Building AI-powered solutions and community-driven projects
-* 🎯 Goal: Become a top-tier AI/ML & Cloud Engineer
 
 ---
 
