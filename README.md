@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C6FF&height=220&section=header&text=Yuvrajjit%20Baruah&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20%26%20Cloud%20Engineer%20%7C%20Founding%20GDGoC%20Organizer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C6FF&height=200&section=header&text=Yuvrajjit%20Baruah&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI/ML%20%26%20Cloud%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/yuvrajjitbaruah">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Diploma+CSE+Student+%40+RGIPT+Sivasagar;ML+Engineering+Intern+%40+FlyRank+AI;Founding+Organizer+%40+GDGoC+RGIPT;Building+AI-powered+solutions+in+the+open;Google+%C2%B7+AWS+%C2%B7+Oracle+Certified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Diploma+CSE+Student+%40+RGIPT+Sivasagar;AI%2FML+%26+Cloud+Enthusiast;Google+%C2%B7+AWS+%C2%B7+Oracle+Certified;Building+AI-powered+projects" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,17 +28,14 @@ yuvrajjit_baruah:
   role: "Diploma CSE Student · AI/ML & Cloud Engineer"
   institute: "Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Sivasagar Campus"
   graduating: "2027"
-  currently_interning_at: "FlyRank AI — ML Engineering Intern (Jun 2026 – Present)"
-  past_internship: "Assam Skill University — Machine Learning Intern (Jul 2026)"
-  leadership: "Founding Organizer, Google Developer Groups on Campus (GDGoC) — RGIPT Sivasagar"
+  internship: "Assam Skill University — Machine Learning Intern (Jul 2026)"
   focus: ["Machine Learning", "Cloud Engineering (GCP/AWS/OCI)", "Generative AI", "Backend Dev"]
   based_in: "Assam, Northeast India"
   languages: ["Assamese (native)", "English", "Hindi"]
 ```
 
 - 🎓 Diploma in Computer Science & Engineering, RGIPT Sivasagar (2024 – 2027)
-- 🧠 Currently an **ML Engineering Intern @ FlyRank AI**, exploring applied ML workflows in production
-- 🚀 Founded the **first-ever GDGoC chapter at RGIPT Sivasagar** — grew it from 0 to an active student developer community, ran TechSprint (200+ participants), and drove Google Solution Challenge outreach for a ₹10L national hackathon
+- 🧠 Completed a **Machine Learning Internship @ Assam Skill University** — full ML workflow from data preprocessing to deployment
 - ☁️ Google, AWS (AI Practitioner), and Oracle cloud-certified
 - 🏛️ Campus Ambassador for **BECon'26 @ IIT Delhi eDC**
 - 📫 Reach me at **dev.yuvrajjitbaruah@gmail.com**
@@ -78,7 +75,6 @@ yuvrajjit_baruah:
 
 - IBM watsonx.ai · IBM Granite Models · Langflow
 - Agentic AI workflows · RAG pipelines
-- Local LLMs via Ollama (gemma3)
 
 </details>
 
@@ -90,17 +86,17 @@ yuvrajjit_baruah:
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [Salary Prediction — companalytics](https://companalytics.yuvrajjitbaruah.in)
+### 📊 CompAnalytics
 End-to-end ML salary prediction app built during the ASU internship — trained model served via a FastAPI backend behind Nginx, with prediction logs written to Supabase.
 
 `Python` `scikit-learn` `FastAPI` `Nginx` `Supabase` `VPS Deployment`
 
-**[🔗 Live](https://companalytics.yuvrajjitbaruah.in)**
+**[🔗 Repo](https://github.com/ASU-ML-Project/ML-Salary-Prediction-Production)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🔬 [IntelliResearch-AI](https://github.com/yuvrajjitbaruah/IntelliResearch-AI)
+### 🔬 IntelliResearch-AI
 AI research agent for paper summarization and intelligent literature retrieval, built on IBM Granite + Langflow with an agentic, RAG-based workflow.
 
 `IBM Granite` `Langflow` `IBM Cloud` `RAG` `Agentic AI`
@@ -121,29 +117,9 @@ AI-powered candidate ranking / ATS platform that screens and ranks applicants us
 <td width="50%" valign="top">
 
 ### 🎓 EduMatrix
-Education-management startup (edumatrix.tech) — landing page, transactional email system, and a support portal spec'd on a Supabase backend.
+Education-management startup — landing page, transactional email system, and a support portal spec'd on a Supabase backend.
 
 `PHP` `Supabase` `cPanel` `HTML/CSS`
-
-**[🔗 edumatrix.tech](https://edumatrix.tech)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤝 Yuvi Bot
-Personal AI assistant running fully on local hardware — Flask backend serving a local LLM via Ollama, no cloud API dependency.
-
-`Flask` `Ollama` `Local LLMs (gemma3)`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 GDGoC RGIPT — Community
-Founded and grew RGIPT's first Google Developer Group from 0 to an active student base; ran TechSprint (200+ attendees) and Solution Challenge outreach.
-
-`Community` `Event Ops` `Public Speaking`
 
 </td>
 </tr>
@@ -166,10 +142,6 @@ Founded and grew RGIPT's first Google Developer Group from 0 to an active studen
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajjitbaruah&theme=tokyo-night&hide_border=true" width="95%"/>
 </div>
 
-<!--START_SECTION:waka-->
-<!-- This section fills automatically once the WakaTime workflow below runs -->
-<!--END_SECTION:waka-->
-
 ---
 
 ## 🐍 Contribution Snake
@@ -177,8 +149,6 @@ Founded and grew RGIPT's first Google Developer Group from 0 to an active studen
 <div align="center">
 <img src="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
 </div>
-
-> ⚙️ The snake animates your real commit graph automatically — see **Setup → Snake Animation** below to switch it on (takes 2 minutes, zero maintenance after).
 
 ---
 
@@ -200,9 +170,7 @@ Founded and grew RGIPT's first Google Developer Group from 0 to an active studen
 
 ## 🌱 Currently
 
-- 🔭 Working as an **ML Engineering Intern @ FlyRank AI**
 - 🌩️ Deepening Cloud (GCP/AWS/OCI) and MLOps skills
-- 🧑‍🏫 Leading GDGoC RGIPT into its second semester of programming
 - 📢 Open to **AI/ML, Cloud, and Backend internships** — remote or Northeast India
 
 <div align="center">
@@ -216,7 +184,7 @@ Founded and grew RGIPT's first Google Developer Group from 0 to an active studen
 
 <br/><br/>
 
-> *"Building communities and AI-powered solutions, one project at a time."*
+> *"Building AI-powered solutions, one project at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0E75B6&height=120&section=footer" width="100%"/>
 
