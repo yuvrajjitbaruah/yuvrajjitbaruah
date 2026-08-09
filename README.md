@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C6FF&height=200&section=header&text=Yuvrajjit%20Baruah&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI/ML%20%26%20Cloud%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/main/banner.svg" width="100%"/>
 
 <a href="https://github.com/yuvrajjitbaruah">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Diploma+CSE+Student+%40+RGIPT+Sivasagar;AI%2FML+%26+Cloud+Enthusiast;Google+%C2%B7+AWS+%C2%B7+Oracle+Certified;Building+AI-powered+projects" alt="Typing SVG" />
@@ -186,6 +186,6 @@ Education-management startup — landing page, transactional email system, and a
 
 > *"Building AI-powered solutions, one project at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0E75B6&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/main/banner.svg" width="100%"/>
 
 </div>
