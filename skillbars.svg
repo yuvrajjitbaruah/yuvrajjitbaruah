@@ -1,0 +1,48 @@
+<svg width="100%" height="330" viewBox="0 0 900 330" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Verdana, sans-serif">
+  <style>
+    .lbl { font-size: 15px; fill: #6e7781; }
+    .track { fill: #2d333b; opacity: 0.15; }
+  </style>
+
+  <!-- Python -->
+  <text x="0" y="20" class="lbl">Python</text>
+  <rect x="0" y="28" width="900" height="14" rx="7" class="track"/>
+  <rect x="0" y="28" height="14" rx="7" fill="#3776AB" width="0">
+    <animate attributeName="width" from="0" to="765" dur="1.2s" fill="freeze" begin="0.1s"/>
+  </rect>
+
+  <!-- Machine Learning -->
+  <text x="0" y="75" class="lbl">Machine Learning (scikit-learn / pandas)</text>
+  <rect x="0" y="83" width="900" height="14" rx="7" class="track"/>
+  <rect x="0" y="83" height="14" rx="7" fill="#F7931E" width="0">
+    <animate attributeName="width" from="0" to="675" dur="1.2s" fill="freeze" begin="0.3s"/>
+  </rect>
+
+  <!-- Cloud (GCP/AWS/OCI) -->
+  <text x="0" y="130" class="lbl">Cloud (GCP · AWS · OCI)</text>
+  <rect x="0" y="138" width="900" height="14" rx="7" class="track"/>
+  <rect x="0" y="138" height="14" rx="7" fill="#4285F4" width="0">
+    <animate attributeName="width" from="0" to="630" dur="1.2s" fill="freeze" begin="0.5s"/>
+  </rect>
+
+  <!-- Backend (Django/Flask/FastAPI) -->
+  <text x="0" y="185" class="lbl">Backend (Django · Flask · FastAPI)</text>
+  <rect x="0" y="193" width="900" height="14" rx="7" class="track"/>
+  <rect x="0" y="193" height="14" rx="7" fill="#092E20" width="0">
+    <animate attributeName="width" from="0" to="600" dur="1.2s" fill="freeze" begin="0.7s"/>
+  </rect>
+
+  <!-- Generative AI / Prompt Engineering -->
+  <text x="0" y="240" class="lbl">Generative AI &amp; Prompt Engineering</text>
+  <rect x="0" y="248" width="900" height="14" rx="7" class="track"/>
+  <rect x="0" y="248" height="14" rx="7" fill="#8E75B2" width="0">
+    <animate attributeName="width" from="0" to="585" dur="1.2s" fill="freeze" begin="0.9s"/>
+  </rect>
+
+  <!-- Web (HTML/CSS/JS) -->
+  <text x="0" y="295" class="lbl">Web (HTML · CSS · JavaScript)</text>
+  <rect x="0" y="303" width="900" height="14" rx="7" class="track"/>
+  <rect x="0" y="303" height="14" rx="7" fill="#E34F26" width="0">
+    <animate attributeName="width" from="0" to="540" dur="1.2s" fill="freeze" begin="1.1s"/>
+  </rect>
+</svg>
