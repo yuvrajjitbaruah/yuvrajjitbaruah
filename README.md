@@ -125,7 +125,7 @@ Education-management startup — landing page, transactional email system, and a
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yuvrajjitbaruah&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yuvrajjitbaruah&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
 ## 📈 GitHub Stats
@@ -147,9 +147,9 @@ Education-management startup — landing page, transactional email system, and a
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajjitbaruah&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajjitbaruah&theme=default&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajjitbaruah&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yuvrajjitbaruah&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=yuvrajjitbaruah&theme=default&hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=yuvrajjitbaruah&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </picture>
 
 <br/>
@@ -160,6 +160,14 @@ Education-management startup — landing page, transactional email system, and a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajjitbaruah&theme=tokyo-night&hide_border=true" width="95%"/>
 </picture>
 
+</div>
+
+---
+
+## 🦑 Deep Metrics
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/main/metrics.svg" width="100%"/>
 </div>
 
 ---
@@ -201,10 +209,10 @@ Education-management startup — landing page, transactional email system, and a
 
 ### 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/yuvrajjitbaruah"><img src="https://img.shields.io/badge/-Yuvrajjit%20Baruah-0A66C2?style=social&logo=linkedin"/></a>
-<a href="https://github.com/yuvrajjitbaruah"><img src="https://img.shields.io/badge/-yuvrajjitbaruah-181717?style=social&logo=github"/></a>
-<a href="https://x.com/yuvrajjitbaruah"><img src="https://img.shields.io/badge/-@yuvrajjitbaruah-000000?style=social&logo=x"/></a>
-<a href="https://www.instagram.com/yuvrajjitbaruah"><img src="https://img.shields.io/badge/-@yuvrajjitbaruah-E4405F?style=social&logo=instagram"/></a>
+<a href="https://www.linkedin.com/in/yuvrajjitbaruah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/yuvrajjitbaruah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://x.com/yuvrajjitbaruah"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.instagram.com/yuvrajjitbaruah"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
 
