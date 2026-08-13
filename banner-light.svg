@@ -1,0 +1,47 @@
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgd" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EAF6FF"/>
+      <stop offset="45%" stop-color="#5FB6E8"/>
+      <stop offset="100%" stop-color="#B9E7FF"/>
+      <animate attributeName="x1" values="0%;20%;0%" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;80%;100%" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bgd)"/>
+
+  <g opacity="0.35" fill="#5FB6E8">
+    <path d="M-50,170 C250,230 950,110 1250,170 L1250,220 L-50,220 Z">
+      <animateTransform attributeName="transform" type="translate" values="0,0;-40,0;0,0" dur="8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g opacity="0.45" fill="#5FB6E8">
+    <path d="M-50,190 C250,240 950,140 1250,190 L1250,220 L-50,220 Z">
+      <animateTransform attributeName="transform" type="translate" values="0,0;40,0;0,0" dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <text x="600" y="100" font-family="Segoe UI, Verdana, sans-serif" font-size="48" font-weight="700" fill="#08324D" text-anchor="middle">
+    Yuvrajjit Baruah
+  </text>
+
+  <g font-family="Segoe UI, Verdana, sans-serif" font-size="20" fill="#0E5C8C" text-anchor="middle">
+    <text x="600" y="150" opacity="0">
+      Diploma CSE Student @ RGIPT Sivasagar
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.23;0.25" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="150" opacity="0">
+      AI/ML &amp; Cloud Enthusiast
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.25;0.27;0.48;0.50" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="150" opacity="0">
+      Google · AWS · Oracle Certified
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.50;0.52;0.73;0.75" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="150" opacity="0">
+      Building AI-powered projects
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.75;0.77;0.98;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
