@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/main/banner.svg" width="100%"/>
-
-<a href="https://github.com/yuvrajjitbaruah">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Diploma+CSE+Student+%40+RGIPT+Sivasagar;AI%2FML+%26+Cloud+Enthusiast;Google+%C2%B7+AWS+%C2%B7+Oracle+Certified;Building+AI-powered+projects" alt="Typing SVG" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/main/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/main/banner-light.svg">
+  <img src="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/main/banner-dark.svg" width="100%"/>
+</picture>
 
 <br/>
 
@@ -14,8 +14,11 @@
 <a href="https://www.instagram.com/yuvrajjitbaruah"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="http://buymeacoffee.com/yuvrajjitbaruah"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=yuvrajjitbaruah&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/yuvrajjitbaruah?label=Followers&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=success&label=Repos&query=public_repos&url=https://api.github.com/users/yuvrajjitbaruah"/>
 
 </div>
 
@@ -45,38 +48,30 @@ yuvrajjit_baruah:
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![GoogleCloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+<img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,js,html,css,postgres,supabase,gcp,aws,git,nginx,linux&theme=dark" />
 </div>
 
 <details>
 <summary><b>🤖 AI & Generative AI toolkit</b></summary>
 <br/>
 
+<div align="center">
+
 ![Gemini](https://img.shields.io/badge/-Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+</div>
 
 - IBM watsonx.ai · IBM Granite Models · Langflow
 - Agentic AI workflows · RAG pipelines
 
 </details>
+
+### 📊 Proficiency
+
+<img src="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/main/skillbars.svg" width="100%"/>
 
 ---
 
@@ -127,19 +122,44 @@ Education-management startup — landing page, transactional email system, and a
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yuvrajjitbaruah&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+</div>
+
 ## 📈 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yuvrajjitbaruah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajjitbaruah&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajjitbaruah&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yuvrajjitbaruah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yuvrajjitbaruah&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuvrajjitbaruah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+</picture>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajjitbaruah&theme=tokyo-night&hide_border=true" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajjitbaruah&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajjitbaruah&layout=compact&theme=default&hide_border=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajjitbaruah&layout=compact&theme=tokyonight&hide_border=true"/>
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajjitbaruah&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajjitbaruah&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajjitbaruah&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajjitbaruah&theme=tokyo-night&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajjitbaruah&theme=minimal&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajjitbaruah&theme=tokyo-night&hide_border=true" width="95%"/>
+</picture>
+
 </div>
 
 ---
@@ -147,7 +167,11 @@ Education-management startup — landing page, transactional email system, and a
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
+</picture>
 </div>
 
 ---
@@ -186,6 +210,10 @@ Education-management startup — landing page, transactional email system, and a
 
 > *"Building AI-powered solutions, one project at a time."*
 
-<img src="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/main/banner.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/main/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/main/footer-light.svg">
+  <img src="https://raw.githubusercontent.com/yuvrajjitbaruah/yuvrajjitbaruah/main/footer-dark.svg" width="100%"/>
+</picture>
 
 </div>
